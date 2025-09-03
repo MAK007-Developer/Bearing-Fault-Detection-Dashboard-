@@ -5,7 +5,7 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import accuracy_score, f1_score
 from sklearn.covariance import EllipticEnvelope
 from sklearn.neural_network import MLPClassifier
-import torch as th
+
 
 
 # Comment out TensorFlow imports and use scikit-learn alternatives instead
